@@ -1,0 +1,50 @@
+version: '3'
+
+services:
+  #Database
+  db:
+    image: mysql:5.7
+    restart: always
+    volumes:
+      - db_data/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_PASSWORD: password
+      MYSQL_USER: wordpress
+      MYSQL_DATABASE: iipec
+    networks:
+      - wpsite
+  #WORDPRESS
+  wordpress:
+    image: wordpress:latest
+    restart: always
+    depends_on:
+      - db
+    environment:
+      WORDPRESS_DB_NAME: iipec
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: password
+      WORDPRESS_DB_HOST: db:3306
+    ports:
+      - '8050:80'
+    volumes:
+      - './:/var/www/html'
+    networks:
+      - wpsite
+  #phpmyadmin
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    depends_on:
+      - db
+    restart: always
+    ports:
+      - '3580:80'
+    environment:
+      PMA_HOST: db
+      MYSQL_ROOT_PASSWORD: password
+    networks:
+      - wpsite
+networks:
+  wpsite:
+volumes:
+  db_data:

@@ -1,0 +1,87 @@
+.oceanly-container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+
+.oceanly-container a {
+	text-decoration: none;
+}
+
+.oceanly-title {
+	font-size: 25px;
+	font-size: 1.55rem;
+	font-weight: 600;
+	line-height: 1.5;
+}
+
+.oceanly-title span {
+	font-weight: 400;
+	font-size: 13px;
+	color: #b4b9be;
+}
+
+.oceanly-panel {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+	-webkit-box-pack: justify;
+		-ms-flex-pack: justify;
+			justify-content: space-between;
+	-webkit-box-align: center;
+		-ms-flex-align: center;
+			align-items: center;
+	padding: 15px;
+	margin-bottom: 15px;
+	background-color: #fff;
+}
+
+@media screen and (min-width: 688px) {
+	.oceanly-panel {
+		-ms-flex-wrap: nowrap;
+			flex-wrap: nowrap;
+	}
+}
+
+.oceanly-panel--highlight {
+	border-left: 3px solid #0073aa;
+}
+
+.oceanly-panel-title {
+	display: block;
+	margin-bottom: 7px;
+	margin-bottom: .45rem;
+	font-size: 22px;
+	font-size: 1.35rem;
+	line-height: 1.5;
+}
+
+.oceanly-panel-actions {
+	margin-top: 5px;
+}
+
+@media screen and (min-width: 688px) {
+	.oceanly-panel-actions {
+		margin-top: 0;
+		margin-left: 15px;
+	}
+}
+
+.oceanly-panel-actions a:not(:first-child) {
+	margin-top: 10px;
+}
+
+.oceanly-panel .oceanly-review-stars-link {
+	display: block;
+	margin-top: 6px;
+	box-shadow: none;
+}
+
+.oceanly-panel-content .description {
+	font-size: 15px;
+	font-size: .9375rem;
+	font-style: normal;
+}

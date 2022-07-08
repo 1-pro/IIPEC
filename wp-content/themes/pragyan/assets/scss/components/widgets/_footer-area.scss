@@ -1,0 +1,50 @@
+.footer-top {
+
+	.widget {
+		background: rgba(0, 0, 0, 0.3);
+		border-left: 0;
+		border-right: 0;
+
+		&.pragyan_blog_post_widget {
+			.pragyan-blog-post {
+				li.item {
+					list-style: none;
+					width: 100%;
+					flex: 0 0 100%;
+					max-width: 100%;
+
+
+				}
+			}
+
+			li {
+				&:before {
+					content: "";
+				}
+			}
+		}
+
+		&.pragyan_tabbed_widget {
+			li {
+				&:before {
+					content: "";
+				}
+			}
+
+
+		}
+
+		&.pragyan_blog_post_widget, &.pragyan_tabbed_widget {
+			.entry-header .entry-meta li {
+				margin: 0;
+				padding: 3px;
+				font-size: 12px;
+				letter-spacing: initial;
+
+				a {
+					font-size: inherit;
+				}
+			}
+		}
+	}
+}

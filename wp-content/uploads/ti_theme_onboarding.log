@@ -1,0 +1,17 @@
+[06/Jul/2022:03:53:17] (ℹ️): WordPress Instance Info:
+[06/Jul/2022:03:53:17] (ℹ️): Home URL : http://localhost:8050
+[06/Jul/2022:03:53:17] (ℹ️): Site URL : http://localhost:8050
+[06/Jul/2022:03:53:17] (ℹ️): WordPress Version : 5.5.3
+[06/Jul/2022:03:53:17] (ℹ️): Onboarding Version : 1.8.2
+[06/Jul/2022:03:53:17] (ℹ️): Multisite : No
+[06/Jul/2022:03:53:17] (ℹ️): Server Info : Apache/2.4.38 (Debian)
+[06/Jul/2022:03:53:17] (ℹ️): PHP Version : 7.4.12
+[06/Jul/2022:03:53:17] (ℹ️): HTTPS : No
+[06/Jul/2022:03:53:17] (ℹ️): PHP Max Execution Time : 30
+[06/Jul/2022:03:53:17] (ℹ️): PHP Max Input Vars : 1000
+[06/Jul/2022:03:53:17] (ℹ️): Max Upload Size : 1048576000
+[06/Jul/2022:03:53:17] (ℹ️): Plugins:
+[06/Jul/2022:03:53:17] (ℹ️): [PLUGIN] Akismet Anti-Spam : v4.1.7 (Automattic)
+[06/Jul/2022:03:53:17] (ℹ️): [PLUGIN] Elementor : v3.0.14 (Elementor.com)
+[06/Jul/2022:03:53:17] (ℹ️): [PLUGIN] Essential Addons for Elementor : v4.3.7 (WPDeveloper)
+[06/Jul/2022:03:53:17] (ℹ️): [PLUGIN] Sticky Header 2020 : v2.0.0 (Iulia Cazan)

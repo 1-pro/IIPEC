@@ -1,0 +1,16 @@
+.home-page-side-content-sidebar,
+.pragyan-before-home-page-main-content-area,
+.pragyan-after-home-page-main-content-area {
+
+	.widget {
+		&.pragyan_blog_post_widget {
+			.pragyan-blog-post {
+				li.item {
+					width: 100%;
+					flex: 0 0 100%;
+					max-width: 100%;
+				}
+			}
+		}
+	}
+}

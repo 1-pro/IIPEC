@@ -1,0 +1,1382 @@
+# <!=Copyright (C) 2020 mantrabrain
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Pragyan 0.0.6\n"
+"Report-Msgid-Bugs-To: mantrabrain@gmail.com\n"
+"POT-Creation-Date: 2020-09-23 07:39:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: core/functions.php:54
+msgid "12"
+msgstr ""
+
+#: comments.php:42
+msgid "Reply"
+msgstr ""
+
+#: comments.php:48
+msgid "Previous"
+msgstr ""
+
+#: comments.php:49
+msgid "Next"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: core/class-pragyan-core.php:61
+msgid "Primary Menu"
+msgstr ""
+
+#: core/class-pragyan-core.php:62 template-parts/footer/bottom-footer.php:22
+msgid "Footer Menu"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:18
+msgid "Left Sidebar"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:20
+msgid ""
+"Add widgets here to appear in your left sidebar on blog posts and archive "
+"pages."
+msgstr ""
+
+#: core/class-pragyan-widgets.php:27
+msgid "Right Sidebar"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:29
+msgid ""
+"Add widgets here to appear in your right sidebar on blog posts and archive "
+"pages."
+msgstr ""
+
+#: core/class-pragyan-widgets.php:36
+#: core/customizer/sections/base/sidebar.php:27
+msgid "Before Home Page Main Content Area"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:38 core/class-pragyan-widgets.php:47
+#: core/class-pragyan-widgets.php:56 core/class-pragyan-widgets.php:65
+msgid "Add widgets here to appear in your home page full width."
+msgstr ""
+
+#: core/class-pragyan-widgets.php:45
+#: core/customizer/sections/base/sidebar.php:66
+msgid "Home Page Main Content Area"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:54
+msgid "Home Page Sidebar"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:63
+#: core/customizer/sections/base/sidebar.php:104
+msgid "After Home Page Main Content Area"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:73
+msgid "Footer 1"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:75 core/class-pragyan-widgets.php:85
+#: core/class-pragyan-widgets.php:94 core/class-pragyan-widgets.php:104
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: core/class-pragyan-widgets.php:83
+msgid "Footer 2"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:92
+msgid "Footer 3"
+msgstr ""
+
+#: core/class-pragyan-widgets.php:102
+msgid "Footer 4"
+msgstr ""
+
+#: core/customizer/controls/class-pragyan-customizer-control-switch.php:18
+msgid "on"
+msgstr ""
+
+#: core/customizer/controls/class-pragyan-customizer-control-switch.php:19
+msgid "off"
+msgstr ""
+
+#: core/customizer/core.php:53 core/customizer/core.php:54
+#: core/customizer/core.php:55 core/customizer/core.php:56
+#: core/customizer/core.php:57
+msgid "Apply Now"
+msgstr ""
+
+#: core/customizer/core.php:65 core/customizer/core.php:66
+#: core/customizer/core.php:67 core/customizer/core.php:68
+#: core/customizer/core.php:69
+msgid "Learn More"
+msgstr ""
+
+#: core/customizer/core.php:83
+msgid "Login"
+msgstr ""
+
+#: core/customizer/core.php:84
+msgid "Logout"
+msgstr ""
+
+#: core/customizer/core.php:86
+msgid "Register"
+msgstr ""
+
+#: core/customizer/core.php:89 core/customizer/sections/header/top.php:184
+#: core/customizer/sections/header/top.php:200
+msgid "Profile"
+msgstr ""
+
+#: core/customizer/core.php:107
+msgid "Copyright © All rights reserved"
+msgstr ""
+
+#: core/customizer/panels/theme-panel.php:5
+msgid "Theme Options"
+msgstr ""
+
+#: core/customizer/sections/base/404.php:6
+msgid "404 Page"
+msgstr ""
+
+#: core/customizer/sections/base/404.php:21
+msgid "404 Title"
+msgstr ""
+
+#: core/customizer/sections/base/404.php:35
+msgid "404 Text"
+msgstr ""
+
+#: core/customizer/sections/base/404.php:51
+msgid "Go Home Text"
+msgstr ""
+
+#: core/customizer/sections/base/back-top-top.php:7
+#: core/customizer/sections/base/back-top-top.php:22
+msgid "Back to Top"
+msgstr ""
+
+#: core/customizer/sections/base/background.php:7
+msgid "Background Image"
+msgstr ""
+
+#: core/customizer/sections/base/breadcrumb.php:6
+#: core/customizer/sections/base/breadcrumb.php:21
+msgid "Breadcrumb"
+msgstr ""
+
+#: core/customizer/sections/base/colors.php:6
+msgid "Colors"
+msgstr ""
+
+#: core/customizer/sections/base/layouts.php:6
+msgid "Layouts"
+msgstr ""
+
+#: core/customizer/sections/base/layouts.php:22
+#: core/meta-boxes/class-pragyan-meta-box-page-settings.php:73
+msgid "Sidebar Layout"
+msgstr ""
+
+#: core/customizer/sections/base/layouts.php:40
+msgid "Layout Style"
+msgstr ""
+
+#: core/customizer/sections/base/layouts.php:43
+msgid "Boxed"
+msgstr ""
+
+#: core/customizer/sections/base/layouts.php:44
+msgid "Full Width "
+msgstr ""
+
+#: core/customizer/sections/base/logo.php:6
+#: core/info/about/class-pragyan-about.php:410
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: core/customizer/sections/base/preloader.php:7
+#: core/customizer/sections/base/preloader.php:22
+msgid "Preloader"
+msgstr ""
+
+#: core/customizer/sections/base/sidebar.php:6
+#: core/info/about/class-pragyan-about.php:470
+#: core/meta-boxes/class-pragyan-meta-box-page-settings.php:102
+msgid "Sidebar"
+msgstr ""
+
+#: core/customizer/sections/base/sidebar.php:44
+#: core/customizer/sections/base/sidebar.php:83
+#: core/customizer/sections/base/sidebar.php:121
+#: core/customizer/sections/slider-and-services/services.php:96
+#: core/meta-boxes/class-pragyan-meta-box-page-settings.php:135
+msgid "Background Color"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/blog-page.php:6
+#: core/customizer/sections/single-post/main.php:6
+msgid "Content & Metas"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/blog-page.php:21
+#: core/customizer/sections/single-post/main.php:21
+msgid "Show/Hide Author"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/blog-page.php:35
+#: core/customizer/sections/single-post/main.php:35
+msgid "Show/Hide Post Date"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/blog-page.php:49
+#: core/customizer/sections/single-post/main.php:49
+msgid "Show/Hide Category"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/blog-page.php:63
+#: core/customizer/sections/single-post/main.php:63
+msgid "Show/Hide Comment"
+msgstr ""
+
+#: core/customizer/sections/footer/copyright.php:6
+#: core/customizer/sections/footer/copyright.php:21
+msgid "Copyright"
+msgstr ""
+
+#: core/customizer/sections/footer/widget-area.php:6
+msgid "Widget Area"
+msgstr ""
+
+#: core/customizer/sections/footer/widget-area.php:21
+msgid "Footer Widget Column"
+msgstr ""
+
+#: core/customizer/sections/header/main.php:5
+#: core/info/about/class-pragyan-about.php:445
+msgid "Main Header"
+msgstr ""
+
+#: core/customizer/sections/header/main.php:21
+msgid "Enable/Disable Sticky Header"
+msgstr ""
+
+#: core/customizer/sections/header/main.php:35
+msgid "Enable/Disable Search"
+msgstr ""
+
+#: core/customizer/sections/header/page.php:5
+#: core/info/about/class-pragyan-about.php:450
+msgid "Page Header"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:7
+#: core/info/about/class-pragyan-about.php:440
+msgid "Top Header"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:24
+msgid "Show/Hide Top Header"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:38
+msgid "Email"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:53
+msgid "Phone"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:73
+#: core/customizer/sections/header/top.php:90
+msgid "Login/Register"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:106
+msgid "Login Link"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:121
+msgid "Login Text"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:135
+msgid "Logout Text"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:149
+msgid "Register Link"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:164
+msgid "Register Text"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:213
+msgid "Profile Page Link"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:227
+msgid "Profile Page Text"
+msgstr ""
+
+#: core/customizer/sections/single-post/main.php:77
+msgid "Show/Hide Post Title"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/services.php:6
+msgid "Services"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/services.php:21
+msgid "Show/Hide Services"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/services.php:39
+msgid "Margin Top"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/services.php:64
+msgid "Service"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/services.php:79
+#: core/customizer/sections/slider-and-services/slider.php:55
+msgid "Select Page"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/services.php:111
+msgid "Service ICON (font awesome icon)"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/slider.php:6
+#: core/customizer/sections/slider-and-services/slider.php:40
+msgid "Slider"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/slider.php:21
+msgid "Show/Hide Slider"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/slider.php:70
+msgid "Apply Button Text"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/slider.php:84
+msgid "Apply Button Link"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/slider.php:98
+msgid "Learn More Button Text"
+msgstr ""
+
+#: core/customizer/sections/slider-and-services/slider.php:112
+msgid "Learn More Button Link"
+msgstr ""
+
+#: core/customizer/sections/theme-base-options.php:7
+msgid "Base (Global)"
+msgstr ""
+
+#: core/customizer/sections/theme-blog-archive-options.php:6
+#: core/info/about/class-pragyan-about.php:455
+msgid "Blog/Archive"
+msgstr ""
+
+#: core/customizer/sections/theme-footer-options.php:5
+#: core/info/about/class-pragyan-about.php:475
+msgid "Footer"
+msgstr ""
+
+#: core/customizer/sections/theme-header-options.php:6
+#: core/meta-boxes/class-pragyan-meta-box-page-settings.php:50
+msgid "Header"
+msgstr ""
+
+#: core/customizer/sections/theme-home-page-options.php:17
+msgid "Theme Style Homepage"
+msgstr ""
+
+#: core/customizer/sections/theme-single-page-options.php:6
+#: core/info/about/class-pragyan-about.php:465
+msgid "Single Page"
+msgstr ""
+
+#: core/customizer/sections/theme-single-post-options.php:6
+#: core/info/about/class-pragyan-about.php:460
+msgid "Single Post"
+msgstr ""
+
+#: core/customizer/sections/theme-slider-and-services-options.php:6
+#: core/info/about/class-pragyan-about.php:425
+msgid "Slider & Services"
+msgstr ""
+
+#: core/functions.php:58
+msgid "6-6"
+msgstr ""
+
+#: core/functions.php:62
+msgid "4-4-4"
+msgstr ""
+
+#: core/functions.php:66
+msgid "3-3-3-3"
+msgstr ""
+
+#: core/functions.php:70
+msgid "3-6-3"
+msgstr ""
+
+#: core/functions.php:74
+msgid "4-3-2-3"
+msgstr ""
+
+#: core/functions.php:90
+msgid "RIGHT SIDEBAR"
+msgstr ""
+
+#: core/functions.php:95
+msgid "LEFT SIDEBAR"
+msgstr ""
+
+#: core/functions.php:100
+msgid "NO SIDEBAR"
+msgstr ""
+
+#: core/functions.php:105
+msgid "FULL WIDTH"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:32
+msgid "Pragyan Options"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:205
+msgid ""
+"Thanks for installing %s. To fully take advantage of the best our theme can "
+"offer, click on get started "
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:220
+msgid " plugins"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:220
+msgid " plugin"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:226
+msgid "Clicking on get started will install & activate %s."
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:229
+msgid "Get started with %s"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:242
+#: core/meta-boxes/class-pragyan-meta-box-page-settings.php:45
+msgid "General"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:243
+#: core/info/about/class-pragyan-about.php:376
+msgid "Changelog"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:261
+msgid "Learn more about Pragyan theme &#187;"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:293
+msgid "Processing..."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Pragyan"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:415
+msgid "Global Layouts"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:420
+msgid "Theme Style Home"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:430
+msgid "Breadcrumbs"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:435
+msgid "Global Colors"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:486
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:515
+msgid "Join Mantra Brain Community!"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:517
+msgid ""
+"Join our facebook community group so that you can post question and help "
+"each other."
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:519
+msgid "Join our facebook community group"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:532
+#: core/info/about/class-pragyan-about.php:536
+msgid "Pragyan Documentation"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:534
+msgid "Pragyan theme documentations and tutorial."
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:553
+msgid "Demo Import"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:556
+msgid ""
+"<strong>Mantra Brain Starter Sites</strong> is free WordPress plugin from "
+"which you can import ready made site within few clicks."
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:583
+msgid "View Site Library / Install Demo"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:593
+msgid "Go to Pragyan Options"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:603
+msgid "Install Importer Plugin"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:628
+msgid "Active Now"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:645
+msgid "Details"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:697
+msgid "Advanced Typography Customization"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:698
+msgid "Gives you creative control on typography for whole website."
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:706
+msgid "Pragyan Pro"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:712
+msgid "Upgrade Now &rarr;"
+msgstr ""
+
+#: core/info/about/class-pragyan-about.php:717
+msgid "Thank you for using Pragyan Pro"
+msgstr ""
+
+#: core/info/class-pragyan-theme-information.php:9
+#: core/vendor/tgmpa/tgmpa-pragyan.php:22
+msgid "Mantra Brain Starter Sites"
+msgstr ""
+
+#: core/info/customizer/section-pro.php:27
+msgid "Get More Features in Pragyan Pro"
+msgstr ""
+
+#: core/meta-boxes/class-pragyan-meta-box-page-settings.php:107
+msgid "Default"
+msgstr ""
+
+#: core/meta-boxes/class-pragyan-meta-box.php:42
+msgid "Pragyan Page Settings"
+msgstr ""
+
+#: core/template-functions.php:36
+msgid "No Comments"
+msgstr ""
+
+#: core/template-functions.php:38
+msgid " Comments"
+msgstr ""
+
+#: core/template-functions.php:40
+msgid "1 Comment"
+msgstr ""
+
+#: core/template-functions.php:63
+msgid "Theme by %s"
+msgstr ""
+
+#: core/template-functions.php:64
+msgid "Mantrabrain"
+msgstr ""
+
+#: core/template-functions.php:152
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:263
+msgid "Home"
+msgstr ""
+
+#: core/template-functions.php:153
+msgid "Courses"
+msgstr ""
+
+#: core/template-functions.php:154
+msgid "Notice"
+msgstr ""
+
+#: core/template-functions.php:155
+msgid "Events"
+msgstr ""
+
+#: core/template-functions.php:156
+msgid "Blog"
+msgstr ""
+
+#: core/template-functions.php:157
+msgid "Contact"
+msgstr ""
+
+#: core/template-tags.php:58
+#. translators: %s: post date
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: core/template-tags.php:73
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: core/template-tags.php:88
+msgid "Post Tags"
+msgstr ""
+
+#: core/template-tags.php:118
+#. translators: %s: Name of current post
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:261
+msgid "Browse:"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:264
+msgid "404 Not Found"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:265
+msgid "Archives"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:267
+#. Translators: %s is the search query.
+msgid "Search results for: %s"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:269
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:271
+#. Translators: %s is the page number.
+msgid "Comment Page %s"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:273
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:275
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:328
+#: core/vendor/tgmpa/tgmpa-pragyan.php:52
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:329
+#: core/vendor/tgmpa/tgmpa-pragyan.php:53
+msgid "Install Plugins"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:331
+#: core/vendor/tgmpa/tgmpa-pragyan.php:55
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:333
+#: core/vendor/tgmpa/tgmpa-pragyan.php:57
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:334
+#: core/vendor/tgmpa/tgmpa-pragyan.php:58
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:371
+#: core/vendor/tgmpa/tgmpa-pragyan.php:95
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:376
+#: core/vendor/tgmpa/tgmpa-pragyan.php:100
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:381
+#: core/vendor/tgmpa/tgmpa-pragyan.php:105
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:386
+#: core/vendor/tgmpa/tgmpa-pragyan.php:110
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:387
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:836
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2588
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3649
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:388
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3223
+#: core/vendor/tgmpa/tgmpa-pragyan.php:111
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:389
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3010
+#: core/vendor/tgmpa/tgmpa-pragyan.php:112
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:391
+#: core/vendor/tgmpa/tgmpa-pragyan.php:114
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:393
+#: core/vendor/tgmpa/tgmpa-pragyan.php:116
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:395
+#: core/vendor/tgmpa/tgmpa-pragyan.php:118
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:396
+#: core/vendor/tgmpa/tgmpa-pragyan.php:119
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:397
+#: core/vendor/tgmpa/tgmpa-pragyan.php:120
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:398
+#: core/vendor/tgmpa/tgmpa-pragyan.php:121
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:530
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:531
+msgid "Update Required"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:944
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:944
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:950
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:950
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2025
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Required"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2324
+msgid "Recommended"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2341
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2344
+msgid "External Source"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2347
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2365
+msgid "Not Installed"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2369
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2371
+msgid "Active"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "Requires Update"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Update recommended"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2443
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2447
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2451
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2545
+msgid "Installed version:"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2565
+msgid "Available version:"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2588
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2602
+msgid "Plugin"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Source"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2604
+msgid "Type"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Version"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2609
+msgid "Status"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2659
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2664
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2670
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2742
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2775
+msgid "Install"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2781
+msgid "Update"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2784
+msgid "Activate"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2815
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2817
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2858
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2860
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2966
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2992
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3222
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3567
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3570
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3572
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3576
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3578
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3578
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3586
+msgid "Show Details"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3578
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3586
+msgid "Hide Details"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3579
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3581
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3584
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3587
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3589
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/vendor/tgmpa/tgmpa-pragyan.php:27
+msgid "Sikshya - LMS"
+msgstr ""
+
+#: core/vendor/tgmpa/tgmpa-pragyan.php:60
+#. translators: 1: plugin name(s).
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/tgmpa-pragyan.php:66
+#. translators: 1: plugin name(s).
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/tgmpa-pragyan.php:72
+#. translators: 1: plugin name(s).
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/tgmpa-pragyan.php:78
+#. translators: 1: plugin name(s).
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/tgmpa-pragyan.php:84
+#. translators: 1: plugin name(s).
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/tgmpa-pragyan.php:90
+#. translators: 1: plugin name(s).
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/widgets/class-pragyan-blog-post.php:13
+msgid "Displays posts from selected categories in carousel layouts."
+msgstr ""
+
+#: core/widgets/class-pragyan-blog-post.php:15
+msgid "Pragyan::Blog Post"
+msgstr ""
+
+#: core/widgets/class-pragyan-blog-post.php:27
+msgid "Title"
+msgstr ""
+
+#: core/widgets/class-pragyan-blog-post.php:29
+msgid "Blog Post"
+msgstr ""
+
+#: core/widgets/class-pragyan-blog-post.php:34
+msgid "Category"
+msgstr ""
+
+#: core/widgets/class-pragyan-blog-post.php:40
+#: core/widgets/class-pragyan-tabbed.php:34
+msgid "Number of Posts"
+msgstr ""
+
+#: core/widgets/class-pragyan-blog-post.php:104
+#: core/widgets/class-pragyan-tabbed.php:99 template-parts/post/content.php:18
+msgid "Read More"
+msgstr ""
+
+#: core/widgets/class-pragyan-tabbed.php:14
+msgid "A widget shows recent posts and comment in tabbed layout."
+msgstr ""
+
+#: core/widgets/class-pragyan-tabbed.php:16
+msgid "Pragyan::Tabbed"
+msgstr ""
+
+#: core/widgets/class-pragyan-tabbed.php:27
+msgid "Posts"
+msgstr ""
+
+#: core/widgets/class-pragyan-tabbed.php:29
+msgid "Latest Posts"
+msgstr ""
+
+#: core/widgets/class-pragyan-tabbed.php:41
+#: core/widgets/class-pragyan-tabbed.php:43
+msgid "Comments"
+msgstr ""
+
+#: core/widgets/class-pragyan-tabbed.php:126
+msgid "&nbsp;commented on"
+msgstr ""
+
+#: core/widgets/class-pragyan-widget-base.php:240
+msgid "All Categories"
+msgstr ""
+
+#: core/widgets/class-pragyan-widget-base.php:260
+#. translators: 1: taxonomy
+msgid "Taxonomy (%s) not found"
+msgstr ""
+
+#: core/widgets/class-pragyan-widget-base.php:312
+msgid "Choose an image"
+msgstr ""
+
+#: core/widgets/class-pragyan-widget-base.php:313
+msgid "Use image"
+msgstr ""
+
+#: core/widgets/class-pragyan-widget-base.php:314
+msgid "Select an Image"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/header/page.php:17
+msgid "Events Calendar"
+msgstr ""
+
+#: template-parts/header/page.php:29
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/header/page.php:33
+msgid "Page Not Found: 404"
+msgstr ""
+
+#: template-parts/page/content-page.php:13 template-parts/post/single.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:6
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/single.php:29
+#. translators: %s: Name of current post
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://mantrabrain.com/downloads/pragyan-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Pragyan is a perfect theme for educational institutions like schools, "
+"colleges, universities, and training institutes. Pragyan supports the most "
+"popular WordPress LMS plugins like LearnPress, Tutor LMS, Sikshya LMS, etc. "
+"You can create your online course selling site using any of the plugins "
+"with Pragyan theme. Pragyan is fully responsive and compatible with the "
+"most popular eCommerce plugin WooCommerce. It can be used for eCommerce "
+"purposes too. You can sell physical/digital products using WooCommerce with "
+"Pragyan theme. Setting up a home page is easy on the Pragyan theme. Some of "
+"the other features: #Widget Based Theme #Easy Homepage setup #Clean "
+"Customizer #Live Preview #SEO Ready #WooCommerce Support #LearnPress "
+"Support #Sikshya LMS Support #Tutor LMS Support #Elementor Compatible "
+"#Translation Ready #Fully Responsive #Extendible with premium plugin etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mantrabrain"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://mantrabrain.com"
+msgstr ""
+
+#: core/class-pragyan-assets.php:23
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/class-pragyan-assets.php:28
+#. translators: If there are characters in your language that are not supported
+#. by Signika, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Signika font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:262
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:756
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:774
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:791
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:821
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:849
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:877
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:1223
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:792
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:850
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:1227
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:793
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:1231
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: core/vendor/breadcrumb-trail/class-pragyan-breadcrumb-trail.php:822
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:1138
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:3006
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2392
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2439
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/vendor/tgmpa/class-tgm-plugin-activation.php:2537
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
